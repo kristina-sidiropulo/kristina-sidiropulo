@@ -85,6 +85,8 @@
 - [Работа с git и bash](https://github.com/kristina-ya91/git_bash)
 
 
+
+
 <!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
@@ -92,5 +94,6 @@
 | netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
 --- -->
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kristina.sidiropulo)
