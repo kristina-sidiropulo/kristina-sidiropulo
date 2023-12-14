@@ -82,7 +82,7 @@
 ### Выполненые задания в рамках курса:
 
 <div>
-https://github.com/kristina-ya91/git_bash
+- [Работа с git и bash](https://github.com/kristina-ya91/git_bash)
 <div>
 
 <!-- ### 💻 Пройденные курсы:
