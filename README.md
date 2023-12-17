@@ -112,15 +112,13 @@
 ---
 ### Test Artifacts
 
-<div>
-  [Тестирование веб-приложений](https://github.com/kristina-sidiropulo/webshop_testing)&nbsp
-  [Тестирование API](https://github.com/kristina-sidiropulo/api_testing)&nbsp
-  [Мобильное тестирование](https://github.com/kristina-sidiropulo/mobile_testing)&nbsp
-  [Перехват трафика](https://github.com/kristina-sidiropulo/fiddler)&nbsp
-  [Работа с базами данных](https://github.com/kristina-sidiropulo/sql)&nbsp
-  [Работа с bash](https://github.com/kristina-sidiropulo/bash/blob/main/README.md)&nbsp
-  [Работа с git](https://github.com/kristina-sidiropulo/git)&nbsp
-</div>
+  [Тестирование веб-приложений](https://github.com/kristina-sidiropulo/webshop_testing)
+  [Тестирование API](https://github.com/kristina-sidiropulo/api_testing)
+  [Мобильное тестирование](https://github.com/kristina-sidiropulo/mobile_testing)
+  [Перехват трафика](https://github.com/kristina-sidiropulo/fiddler)
+  [Работа с базами данных](https://github.com/kristina-sidiropulo/sql)
+  [Работа с bash](https://github.com/kristina-sidiropulo/bash/blob/main/README.md)
+  [Работа с git](https://github.com/kristina-sidiropulo/git)
 
 ---
 
