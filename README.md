@@ -95,6 +95,8 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
 </div>
 
+---
+
 ### - Другое
 
 <div>
