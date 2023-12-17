@@ -6,9 +6,9 @@
 
 Я тестировщик. Основной домен - тестирование веб-приложений (front + back).
 
-- 📫 Как связаться со мной: 
+- 📫 Как связаться со мной:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@kristina--sidiropulo-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kristina-sidiropulo/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-@kristina--sidiropulo-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kristina-sidiropulo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kristina.yarema91@gmail.com)
 
 ---
@@ -32,6 +32,7 @@
   <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="testit" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  <img src="https://img.softline.com/mcf/3be1016c84d43754de0e46b242c21309/c99ea5d326c17c99ee02/scale-dec-275x275.png" title="yandex.tracker" alt="yandex.tracker" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -64,7 +65,8 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3911/PNG/512/clickhouse_logo_icon_247349.png" title="clickhouse" alt="clickhouse" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -73,9 +75,10 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -94,23 +97,16 @@
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="elastic" alt="elasticsearch" width="40" height="40"/>&nbsp
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="kibana" alt="kibana" width="40" height="40"/>&nbsp
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/sentry_icon_132005.png" title="sentry" alt="sentry" width="40" height="40"/>&nbsp
 </div>
 
 ---
 
-### Другое
+### ОС
 
 <div>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp
-<div>
-
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
+</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kristina-sidiropulo)
