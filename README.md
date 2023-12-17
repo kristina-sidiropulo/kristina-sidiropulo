@@ -65,8 +65,8 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3911/PNG/512/clickhouse_logo_icon_247349.png" title="clickhouse" alt="clickhouse" width="40" height="40"/>&nbsp
   <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3911/PNG/512/clickhouse_logo_icon_247349.png" title="clickhouse" alt="clickhouse" width="40" height="40"/>&nbsp
 </div>
 
 ---
