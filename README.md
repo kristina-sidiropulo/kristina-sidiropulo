@@ -6,7 +6,7 @@
 
 Я тестировщик. Основной домен - тестирование API.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@kristina-sidiropulo-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kristina-sidiropulo/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kristina.yarema91@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@kristina--sidiropulo-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kristina-sidiropulo/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kristina.yarema91@gmail.com)
 
 ---
 
@@ -76,6 +76,14 @@
 
 ---
 
+### Выполненые задания в рамках курса:
+
+
+- [Работа с git и bash](https://github.com/kristina-ya91/git_bash)
+
+
+
+
 <!-- ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
@@ -83,5 +91,6 @@
 | netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
 --- -->
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kristina.sidiropulo)
