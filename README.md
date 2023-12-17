@@ -6,7 +6,10 @@
 
 Я тестировщик. Основной домен - тестирование веб-приложений (front + back).
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@kristina-sidiropulo-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kristina-sidiropulo/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kristina.yarema91@gmail.com)
+- 📫 Как связаться со мной: 
+
+[![LinkedIn Badge](https://img.shields.io/badge/-@kristina-sidiropulo-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kristina-sidiropulo/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kristina.yarema91@gmail.com)
 
 ---
 
@@ -26,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="testit" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
@@ -61,12 +64,11 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
 ---
 
-### ✏️ Работа с кодом:
+### Работа с кодом:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -77,15 +79,27 @@
 
 ---
 
-### - КАК ЭТО НАЗВАТЬ? ИЛИ ПО КАКИМ БЛОКАМ ЭТО РАЗЛОЖИТЬ?
+### Работа с языками программирования
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### Работа с логами
+
+<div>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="elastic" alt="elasticsearch" width="40" height="40"/>&nbsp
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="kibana" alt="kibana" width="40" height="40"/>&nbsp
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
+</div>
+
+### - Другое
 
 <div>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <div>
 
 <!-- ### 💻 Пройденные курсы:
@@ -96,4 +110,4 @@
 
 --- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kristina-sidiropulo)
