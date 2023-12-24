@@ -119,7 +119,7 @@
  -  [Работа с базами данных](https://github.com/kristina-sidiropulo/sql)
  -  [Работа с bash](https://github.com/kristina-sidiropulo/bash/blob/main/README.md)
  -  [Работа с git](https://github.com/kristina-sidiropulo/git)
- -  [My CV](https://github.com/kristina-sidiropulo/My_CV)
+ -  [My CV](https://github.com/kristina-sidiropulo/My_CV/blob/main/Sidiropulo%2C%20qa_engineer.pdf)
 
 ---
 
